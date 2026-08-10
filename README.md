@@ -1,24 +1,26 @@
-<h1 align="center">Hi 👋, I'm Ranjeet Prajapati</h1>
-<h3 align="center">Backend Software Engineer | Java • Spring Boot • REST APIs • AI Integration</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ranjeet+Prajapati;Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+REST+APIs;Exploring+AI+%2B+RAG+Integration" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  Final-year B.Tech CSE (Data Science) student building secure, scalable backend systems — 
-  from RBAC-driven REST APIs to AI-powered RAG chatbots. Currently seeking Backend Software Engineering internships.
+  I build backend systems that don't fall over — secure REST APIs, RBAC-driven auth, 
+  and lately, AI-powered retrieval pipelines that talk to your PDFs.
 </p>
 
 <p align="center">
-  📫 Reach me at <a href="mailto:ranjeet75504@gmail.com">ranjeet75504@gmail.com</a> for collaboration, projects, or opportunities.
+  📫 <a href="mailto:ranjeet75504@gmail.com">ranjeet75504@gmail.com</a> · Open to Backend Engineering Internships
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 B.Tech CSE (Data Science Specialization) @ Noida International University — CGPA 8.82/10.0
-- 💼 Backend-focused: Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate
-- 🤖 Exploring AI integration in backend systems — RAG pipelines with Spring AI, Ollama & PGVector
-- 🏗️ Building **AI-Powered College ERP System** — full-stack app with JWT auth, RBAC, and a semantic-search chatbot
-- 🌱 Strong fundamentals in DSA, OOP, DBMS, and distributed systems concepts (microservices, concurrency)
-- 📄 Java Backend Development Bootcamp — GeeksforGeeks (2026)
+- 🎓 B.Tech, Computer Science & Engineering (Data Science) — Noida International University, Class of 2027 · CGPA 8.82/10.0
+- 💼 Backend-first: Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate
+- 🤖 Currently deep in RAG pipelines — Spring AI, Ollama, PGVector for semantic search over documents
+- 🏗️ Building an **AI-Powered College ERP System** — JWT auth, RBAC, and a chatbot that reads your syllabus for you
+- 🌱 Solid in DSA, OOP, DBMS, and the distributed-systems basics (microservices, concurrency)
+- 📄 Certified: Java Backend Development Bootcamp, GeeksforGeeks (2026)
+- ⚡ Fun fact: my code review comments are more thorough than my commit messages
 
 ---
 
@@ -71,12 +73,12 @@ Spring Boot service integrating a third-party AI API, returning structured JSON 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajapatiiranjeet&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prajapatiiranjeet&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatiiranjeet&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prajapatiiranjeet&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=prajapatiiranjeet&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -87,10 +89,6 @@ Spring Boot service integrating a third-party AI API, returning structured JSON 
 
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
 
 <p align="center">
