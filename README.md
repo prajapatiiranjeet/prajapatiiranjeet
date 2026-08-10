@@ -67,30 +67,14 @@ Spring Boot service integrating a third-party AI API, returning structured JSON 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjeet-prajapati-286956394/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/prajapatii_ranjeet)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjeet75504@gmail.com)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajapatiiranjeet&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatiiranjeet&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prajapatiiranjeet&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prajapatiiranjeet&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajapatiiranjeet)
 
 ---
 
 <p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://komarev.com/ghpvc/?username=prajapatiiranjeet&style=for-the-badge&color=6DB33F" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=prajapatiiranjeet&icon=0&color=0" alt="Visitor Count"/></a>
+  <i>Thanks for stopping by — always open to interesting backend or AI problems to solve.</i>
 </p>
